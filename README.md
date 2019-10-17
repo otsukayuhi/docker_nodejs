@@ -11,7 +11,7 @@ $ docker-compose build
 
 `fish shell`が使える、イカした環境です◎
 
-## 開発
+## dockerコンテナーを立ち上げて中に入る
 
 ```console
 $ ./start.sh
