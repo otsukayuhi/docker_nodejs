@@ -13,8 +13,6 @@ https://docs.docker.com/install/#supported-platforms
 $ docker-compose build
 ```
 
-`fish shell` が使える、イカした環境です✌
-
 ## dockerコンテナーを立ち上げて中に入る
 
 サンプルとして`express`が入っています。  
