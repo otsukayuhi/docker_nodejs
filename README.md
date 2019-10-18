@@ -18,7 +18,7 @@ $ docker-compose build
 ## dockerコンテナーを立ち上げて中に入る
 
 サンプルとして`express`が入っています。  
-`http:localhost:3000`で`hello, world!!`と表示されたら成功です🎉
+`http://localhost:3000`で`hello, world!!`と表示されたら成功です🎉
 
 ```console
 $ ./start.sh
