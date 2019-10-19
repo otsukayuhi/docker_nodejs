@@ -23,6 +23,8 @@ $ ./start.sh
 $ node .
 ```
 
+`fish shell`も使えます🐟
+
 ## dockerコンテナーからの脱出
 
 ```console
